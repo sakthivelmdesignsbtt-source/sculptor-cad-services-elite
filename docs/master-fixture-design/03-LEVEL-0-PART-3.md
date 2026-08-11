@@ -6287,19 +6287,26 @@ next stage, and it is where fixture design proper begins.
 ```
 LEVEL 0  ✓ ENGINEERING FOUNDATION                     COMPLETE
 
-LEVEL 1  ► INTRODUCTION TO JIGS AND FIXTURES
-           What a fixture is · jig vs fixture · the elements ·
-           types by process · economics · the design workflow
+LEVEL 1  ► CNC MACHINING FUNDAMENTALS                 14 lessons
+           Module 1.1  CNC machine architecture
+           Module 1.2  Coordinate systems and offsets
+           Module 1.3  Machining operations in detail
 
-LEVEL 2    FIXTURE ELEMENTS AND STANDARD COMPONENTS
-LEVEL 3    THE DESIGN PROCESS AND REQUIREMENT CAPTURE
+LEVEL 2    WHAT IS A FIXTURE?
+LEVEL 3    FIXTURE ELEMENTS AND STANDARD COMPONENTS
 LEVEL 4    LOCATION THEORY — 3-2-1, DEGREES OF FREEDOM
            ↑ Where Level 0 pays off completely. Every principle
              you have learned becomes a design decision here.
 LEVEL 5    CLAMPING PRINCIPLES
 ```
 
-Level 1 is a shorter level than Level 0 and will be delivered in a single part.
+**On the relationship between Level 0 Module 0.4 and Level 1.** Module 0.4 gave you the fixture
+designer's working survey of machining — enough to estimate a force and read a process sheet. Level 1
+is the engineering depth beneath it: how the machine is actually built and where its accuracy comes
+from, how coordinate systems and offsets really work, and an operation-by-operation force analysis.
+Level 1 does not repeat Module 0.4; it goes underneath it.
+
+Level 1 will be delivered in two parts.
 
 ---
 
