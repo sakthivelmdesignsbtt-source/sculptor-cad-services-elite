@@ -10047,15 +10047,18 @@ rest of the work.
 
 | Lesson | Topic |
 |---|---|
-| L1.3.1 | Milling — face, end, slot, contour, and the direction of cutting forces |
-| L1.3.2 | Drilling — thrust, torque, breakthrough, and why drilling fixtures fail differently |
-| L1.3.3 | Boring and reaming — why these operations need support, not just restraint |
-| L1.3.4 | Tapping — reversal loads, and the fixture consequence of a bidirectional torque |
-| L1.3.5 | Roughing versus finishing — two different fixture problems in one setup |
-| L1.3.6 | Multi-operation sequencing — datum shift, re-clamping, and the accumulating stack |
+| L1.3.1 | Face milling and end milling — force direction, up-cut vs down-cut, and the resulting fixture load case |
+| L1.3.2 | Slot milling, pocket milling, contouring — side loads, entry shock, tool deflection |
+| L1.3.3 | Drilling — thrust force and torque, the breakthrough spike, and why drilling lifts and rotates parts |
+| L1.3.4 | Reaming and boring — low force, high accuracy: why fixture *stability* matters more than fixture *strength* |
+| L1.3.5 | Tapping — reversal torque, rigid vs floating tapping, chip packing |
+| L1.3.6 | Chamfering, counterboring, countersinking — short cuts and tool access constraints |
 
-Plus the **Level 1 assessment**: 40 questions, grade bands as established, with the critical-error
-auto-fail list extended by the six errors above.
+Plus the **Level 1 assessment**: Quiz Q1 (35 items) and the offset-table assignment, with grade bands
+as established and the critical-error auto-fail list extended by the six errors above.
+
+**Level 1 exit criterion:** *you can state, for any machining operation, the force direction the fixture
+must resist.* Module 1.3 is what earns that.
 
 **Module 1.3 is where the force directions from Module 1.1 meet the real operations.** Module 1.1
 established that a fixture sits in the structural loop and must resist what the machine does; Module 1.3
